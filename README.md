@@ -1,19 +1,15 @@
-# Technigo React Starter App
+Final Project
 
-This app has been generated using `create-react-app`, then cleaned up a little so we have a project with just the elements we need to get started.
+We created a plant/garden planner. It’s main purpose is to keep track of your plants by adding them to your profile. You can add your own information about your plant and also add a picture of your plant.
+There is also a calendar where you can add tasks that you have to do with your plants.
+We also made it a PWA so you can access it in your phone as an app.
 
-Add components in the `src` folder and use them in `src/app.js` to get started.
+Tech Stack
+React
+Redux
+React Router
+Node.js
+MongoDB
 
-## Usage
-
-1. On GitHub, click the 'use this template' button to create a new repo on your account
-1. Clone the new repo to your computer
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
-
-Alternatively, if you don't want a new git repo on your account;
-
-1. Download & extract the [latest release](https://github.com/Technigo/react-starter/releases/latest) from GitHub
-1. Open the directory in the terminal: `cd /path/to/react-starter`
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+View it live!
+https://plantinary.netlify.app/
