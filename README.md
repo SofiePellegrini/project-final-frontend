@@ -4,7 +4,7 @@ We created a plant/garden planner. It’s main purpose is to keep track of your 
 There is also a calendar where you can add tasks that you have to do with your plants.
 We also made it a PWA so you can access it in your phone as an app.
 
-We used React,Redux,React Router,Node.js, MongoDB.
+We used React, Redux, React Router, Node.js, MongoDB.
 
 
 https://plantinary.netlify.app/
