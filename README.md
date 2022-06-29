@@ -9,3 +9,5 @@ We used React, Redux, React Router, Node.js, MongoDB.
 
 https://plantinary.netlify.app/
 
+GitHub repo for backend: 
+https://github.com/SofiePellegrini/project-final-backend
